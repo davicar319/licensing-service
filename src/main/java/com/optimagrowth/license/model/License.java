@@ -9,7 +9,7 @@ import lombok.ToString;
 @Setter
 @ToString
 @EqualsAndHashCode
-public class LicenseModel {
+public class License {
     private int id;
     private String licenseId;
     private String description;
